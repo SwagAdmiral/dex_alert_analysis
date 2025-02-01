@@ -5,6 +5,7 @@
 4. To do full code comment-out.
 5. Merge all the data preparations code in 1 .py file: read .json of Telegram and export final .csv (really great idea, I should say)
 6. To imply Scikit-learn lib for clasterisation.
+7. To deploy the code on Telegram bot using python-telegram-bot API with real-time insights based on alerts' chat exports.
 
 Hypothesis & insights to add:
 1. 
