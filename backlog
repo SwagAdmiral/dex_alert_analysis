@@ -6,6 +6,7 @@
 5. Merge all the data preparations code in 1 .py file: read .json of Telegram and export final .csv (really great idea, I should say)
 6. To imply Scikit-learn lib for clasterisation.
 7. To deploy the code on Telegram bot using python-telegram-bot API with real-time insights based on alerts' chat exports.
+8. To imply indicators of the RATE OF CHANGE smw, i.e. 'Market Cap difference / Since'
 
 Hypothesis & insights to add:
 1. 
