@@ -3,6 +3,7 @@
 2. To cut the critical path.
 3. To rewrite filepaths (level of my desire to do it: way too below zero)
 4. To do full code comment-out.
+5. Merge all the data preparations code in 1 .py file: read .json of Telegram and export final .csv (really great idea, I should say)
 
 Hypothesis & insights to add:
 1. 
